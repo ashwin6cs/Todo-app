@@ -1,10 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routers import users, todos, profile
-from mangum import Mangum
 
 app = FastAPI()
-handler = Mangum(app)
 
 # Define the list of allowed origins
 origins = [
