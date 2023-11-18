@@ -1,7 +1,8 @@
 # Todo-app
 
 
-Access the [Todo App documentation](https://todo-app-34vp.onrender.com/docs) for detailed information and instructions on using the application.
+- Access the [Todo App documentation](https://todo-app-34vp.onrender.com/docs) for detailed information and instructions on using the application.
+- The application is deployed on [Render](https://dashboard.render.com/select-repo?type=web). Click the link to access the deployment and explore the live environment.
 
 
 # FastAPI Todo and User Management
